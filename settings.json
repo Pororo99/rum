@@ -6,7 +6,7 @@
     },
     "Play Game": {
         "Mode": "dice",
-        "Currency": "btt",
+        "Currency": "fey",
         "Show Price": "ON",
         "Delay Bet(ms)": "0",
         "Classic Display": "True",
