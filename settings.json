@@ -57,7 +57,7 @@
         }
     },
     "Bet Amount": {
-        "Base Bet": "0.0000001",
+        "Base Bet": "0.0000002",
         "Preroll Bet": "0.00000001",
         "Shoot Bet": "1",
         "Auto Shoot": {
