@@ -2,7 +2,7 @@
     "R-Allemb": {
         "Allemb Level": {
             "Repeat": "2",
-            "Big": "10"
+            "Big": "15"
         },
         "Chance to Win 1": {
             "Min": "45",
@@ -10,7 +10,7 @@
         },
         "Chance to Win 2": {
             "Min": "15",
-            "Max": "25"
+            "Max": "20"
         },
         "Chance to Win 3": {
             "Min": "35",
