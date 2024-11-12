@@ -1,0 +1,18 @@
+{
+    "Multi Rumble": {
+        "Chance to Win": {
+            "Min": "40",
+            "Max": "52"
+        },
+        "Marti Single": {
+            "Win": "1",
+            "Lose": "1.6"
+        },
+        "Bet Multi": "1",
+        "Marti Multi": {
+            "Win": "1",
+            "Lose": "1.6"
+        },
+        "Reset to base": "0.0000001"
+    }
+}

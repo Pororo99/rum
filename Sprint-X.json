@@ -1,0 +1,13 @@
+{
+    "Sprint-X": {
+        "Chance to Win": "9.7",
+        "Base Divider": "500000",
+        "Multi": "1.10",
+        "Boost": "2",
+        "Cut Lose": {
+            "On LS": "75",
+            "Bet Divider": "50000",
+            "Multi": "1.25"
+        }
+    }
+}

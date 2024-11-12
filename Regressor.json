@@ -1,0 +1,19 @@
+{
+    "Regressor": {
+        "Status": "ON",
+        "Base Chance": "33.73",
+        "Base Marti": "1.33",
+        "Chance Increment": {
+            "Increased by (%)": "0",
+            "Increase every bets": "3"
+        },
+        "Limit Override": {
+            "Max LS": "13",
+            "Max Chance": "35.25"
+        },
+        "Chance Override": {
+            "Min": "45",
+            "Max": "50"
+        }
+    }
+}
