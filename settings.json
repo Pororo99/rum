@@ -85,7 +85,7 @@
         "Multi Rumble": "OFF",
         "Po Hunter": "OFF",
         "Progressif": "OFF",
-        "R-Allemb": "ON",
+        "R-Allemb": "OFF",
         "Regressor": "OFF",
         "Rumble Miner": "OFF",
         "RumbleNote": "OFF",
@@ -94,8 +94,9 @@
         "Sprint": "OFF",
         "Wager": "OFF",
         "Role Rumble": "OFF",
-        "Fusion": "OFF",
+        "Fusion": "ON",
         "Labouchere": "OFF"
     }
 }
+
 
