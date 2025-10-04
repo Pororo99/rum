@@ -2,11 +2,11 @@
     "License": "Contact Admin",
     "Account": {
         "Username": "wwibu94@gmail.com",
-        "Password": "66#dpi#66"
+        "Password": ""
     },
     "Play Game": {
         "Mode": "dice",
-        "Currency": "trx",
+        "Currency": "btt",
         "Show Price": "ON",
         "Delay Bet(ms)": "0",
         "Classic Display": "True",
@@ -14,7 +14,7 @@
     },
     "Target": {
         "Profit (amt)": "0",
-        "Profit (%)": "50",
+        "Profit (%)": "5",
         "Balance": "0",
         "Lose": "0"
     },
@@ -98,3 +98,4 @@
         "Labouchere": "OFF"
     }
 }
+
